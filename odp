@@ -1,1 +1,3 @@
 są wszystkie oprócz ignorowanych plików z rozszerzeniem ".txt".
+ponieważ wyedytowaliśmy plik .gitignore ,aby git ignorował wszystkie
+pliki o rozszerzeniu txt
